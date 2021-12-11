@@ -20,7 +20,7 @@ public interface UserMapper {
     int updateByPrimaryKeySelective(User record);
 
     /**
-     *
+     * 你好a
      * @param record
      * @return
      */
